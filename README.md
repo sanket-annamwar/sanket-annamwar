@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @sanket-annamwar
 - 👀 I’m interested in data analytics
 - 🌱 I’m currently learning data science
-- 💞️ I’m looking to collaborate on 
 - 📫 How to reach me www.linkedin.com/in/sanket-annamwar
 - 😄 Pronouns: Sanket
 - ⚡ Fun fact: ...
