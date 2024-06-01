@@ -2,7 +2,7 @@
 - 👀 I’m interested in data analytics
 - 🌱 I’m currently learning data science
 - 📫 How to reach me www.linkedin.com/in/sanket-annamwar
-- 😄 Pronouns: Sanket
+- 😄 Pronouns: he/him
 - ⚡ Fun fact: ...
 
 <!---
